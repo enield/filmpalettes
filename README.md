@@ -1,12 +1,12 @@
 # filmpalettes
 
 ## Goal of Package
-The goal is to create a package similar to the \href{https://github.com/karthik/wesanderson} {wesanderson package}. where you can give your plots a colour theme inspired by film palettes. 
+The goal is to create a package similar to the wesanderson package (https://github.com/karthik/wesanderson), where you can give your plots a colour theme inspired by film palettes. 
 
 Film Palettes
 -------------
 
-There are a handful of colour palettes inspired by famous films movies all derived from this Esquire article: .
+There are a handful of colour palettes inspired by famous films movies all derived from this Esquire article: http://www.esquire.com/style/news/g2760/color-palettes-iconic-films/.
 
 Here are all the availble palettes:
 
