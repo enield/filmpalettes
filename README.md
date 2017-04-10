@@ -9,4 +9,4 @@ There are a handful of colour palettes inspired by famous films movies all deriv
 
 Here are all the availble palettes:
 
-![/images/All_Film_Palettes.png]
+![All Film Palettes](/images/All_Film_Palettes.png)
